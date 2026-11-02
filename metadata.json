@@ -1,0 +1,6 @@
+{
+  "name": "tbSIEM Housekeeping Control Centre",
+  "description": "Enterprise SIEM storage lifecycle, retention, compression tiering, and OpenSearch housekeeping control plane.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
